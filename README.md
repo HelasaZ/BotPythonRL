@@ -1,3 +1,3 @@
-# RL Trading
+# RL Trading App
 
 OUTDATED SINCE 2021
